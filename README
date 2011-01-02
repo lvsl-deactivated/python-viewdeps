@@ -1,0 +1,12 @@
+Python-viewdeps.
+
+Tool for visualizing dependencies between python code.
+
+Required:
+ - Python3 
+ - Graphviz neato
+
+Tested on ubunto 10.4
+
+Example usage:
+$run.py dir-with-my-library/
